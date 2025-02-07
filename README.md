@@ -25,4 +25,5 @@ Stažení, čištění, shromáždění a analýza proměny počtu podnikatelů 
 <br>
 ---
 <br>
+
 ![Změna počtu podnikatelů v ČR mezi lety 2016 a 2024](datawrapper-export.png)
