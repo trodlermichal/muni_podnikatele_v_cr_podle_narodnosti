@@ -22,5 +22,4 @@ Stažení, čištění, shromáždění a analýza proměny počtu podnikatelů 
     - 100% Stacked Area Chart
 - [x] Interaktivní vizualizace na Datawrapper.de
 
-<iframe title="Změna počtu podnikatelů v ČR" aria-label="Interactive line chart" id="datawrapper-chart-9vA7d" src="https://datawrapper.dwcdn.net/9vA7d/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="591" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}();
-</script>
+![Změna počtu podnikatelů v ČR mezi lety 2016 a 2024](datawrapper-export.png)
