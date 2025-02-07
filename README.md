@@ -22,10 +22,8 @@ Stažení, čištění, shromáždění a analýza proměny počtu podnikatelů 
     - 100% Stacked Area Chart
 - [x] [Interaktivní vizualizace](https://datawrapper.dwcdn.net/9vA7d/1/) na Datawrapper.de
 <br>
-<br>
 
 ---
-***
 
 <br>
 
