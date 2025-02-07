@@ -21,7 +21,8 @@ Stažení, čištění, shromáždění a analýza proměny počtu podnikatelů 
     - Line Chart
     - 100% Stacked Area Chart
 - [x] [Interaktivní vizualizace](https://datawrapper.dwcdn.net/9vA7d/1/) na Datawrapper.de
-  
---
-
+<br>
+<br>
+---
+<br>
 ![Změna počtu podnikatelů v ČR mezi lety 2016 a 2024](datawrapper-export.png)
