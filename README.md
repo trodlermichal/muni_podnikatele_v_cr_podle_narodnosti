@@ -8,14 +8,14 @@ Stažení, čištění, shromáždění a analýza proměny počtu podnikatelů 
 - [x] Stažení dat pomocí scraperu (Playwright async) - 34 záznamů  
 - [x] Převod .xlsx souborů se zamčenými listy do csv  
 
-### Preprocessing.ipynb
+### [Preprocessing.ipynb](Preprocessing.ipynb)
 - [x] Manuální upravení názvů "Text" na "YYYY QQ"  
 - [x] Preprocessing vzniklých CSV
     - Přejmenování sloupců, odstranění zbytečných sloupců a řádků, nastavení indexu
 - [x] Vytvoření listů all_sums a all_dataframes  
 - [x] Merge (left outter join) do jednoho  
 
-### Visualisation.ipynb
+### [Visualisation.ipynb](Visualisation.ipynb)
 - [x] Vizualizace pomocí matplotlib
     - Stacked Area Chart
     - Line Chart
